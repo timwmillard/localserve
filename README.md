@@ -2,4 +2,4 @@
 
 A simple web server to serve local file for web development testing.
 
-Usage: localhost [-p port] [-d directory]
+Usage: localserve [-p port] [-d directory]
